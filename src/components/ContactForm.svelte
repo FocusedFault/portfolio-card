@@ -10,7 +10,7 @@
   >
     <label for="email">Enter your email:</label><br />
     <input
-      class="rounded p-2"
+      class="rounded p-2 my-1"
       type="email"
       id="email"
       name="email"
@@ -18,7 +18,7 @@
     /><br />
     <label for="query">Enter your message:</label><br />
     <textarea
-      class="rounded p-2"
+      class="rounded p-2 my-1"
       name="body"
       rows="5"
       cols="30"
